@@ -1,0 +1,35 @@
+1. Densa y utilizar propiedades de matrices.
+
+- Sobre la función ¿se puede sacar logaritmo y derivar? tiene forma de exponencial, etc.
+- La selección del algoritmo es crucial.
+
+- Wishart distribution
+
+
+2. Sale lenta pero segura.
+
+-Materia y probar resultados.
+
+3. Programar y pensarla bien, no debe ser complicada.
+
+- Simular los Wk
+- ¿Cuál es la base ortonormal de L2? hay una base de cosenos, los cuales son pares y puede ser una base re útil. (Hay otra, base de legengre) Hay que simular de forma independiente para que tenga sentido el problema.
+- Simular de otra forma los W_k (obs 2.)
+
+- a menos theta mas amplitud.
+
+4. Lento, hazla lento, escribiendo todos los supuestos y bien ordenado, debe salir fácil.
+
+- Parece que se modela mucho al gusto del consumidor.
+- Histogramas y funcion hazard.
+- c) Tirar una Weibull.
+
+Preguntar al profesor: 
+
+- Redacción pregunta 2.
+
+- Al enviar el trabajo se deben enviar los códigos por lo que entiendo.
+
+- En la pregunta 4. El punto 3 está confuso, buscar entenderlo mejor.
+
+- Pregunta 4: Modelo gráfico?
