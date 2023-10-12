@@ -1,8 +1,6 @@
 Orden preferido a realizar:
 
-- Luego continua terminando la pregunta 2, que es la que te falta desde 0 y deberían ser puntos "fáciles".
-
-- Cambia lo relacionado al lambda maximo en la última pregunta, utilizando la demostración basada en álgebra lineal dada por Ferrer.
+- Terminar pregunta 2: Es tiempo, conviene preguntar a quien la tenga.
 
 - Por último, en función del tiempo, considera que vas a hacer, utilizar aceptación al rechazo al final o simular desde 0. Evalua en cual puedes hacer una respuesta que involucre menos cambios y menos análisis, tal vez aceptación-rechazo sea la opción dado que es complementar lo anterior que ya está hecho (creo que eso es mejor).
 
@@ -10,9 +8,7 @@ COSAS QUE QUEDAN POR HACER:
 
 1. Simular para Wishart con grados de libertad arbitrarios.
 
-- ARREGLAR CORTO: Simular para lambda max mediante foto Ferrer.
-
-- SOLUCION BREVE: Simular Wishart desde paper exótico.
+- SOLUCION BREVE?: Simular Wishart desde paper exótico.
 
 formas: Paper, metropolis-hasting y paper.
 
