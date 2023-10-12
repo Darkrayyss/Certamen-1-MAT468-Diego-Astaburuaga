@@ -1,6 +1,7 @@
 Orden preferido a realizar:
 
-- Te recomiendo hacer la pregunta 3, que es la que le falta más en general, preocupate de entender bien los W_k para distintos valores de alpha y theta, ocupa dicho valores para simular todo lo que requieras, debes editar todo el código desde 0.
+- Te recomiendo hacer la pregunta 3, que es la que le falta más en general, preocupate de entender bien los W_k para distintos valores de alpha y theta, ocupa dicho valores para simular todo lo que requieras, debes editar todo el código desde 0. 
+(LISTA! FALTA ESCRIBIRLA.)
 
 - Luego continua terminando la pregunta 2, que es la que te falta desde 0 y deberían ser puntos "fáciles".
 
@@ -25,7 +26,7 @@ formas: Paper, metropolis-hasting y paper.
 
 - Comparar ambos métodos con los indicadores propuestos.
 
-3. Acortar el análisis de $W_k$ y simular.
+3. Acortar el análisis de $W_k$ y simular. (LISTO!)
 
 - Entender el comportamiento de los W_k, conocer para que valores de alpha y theta se tiene que la convergencia de sum(W_k) a 1 es rápida, es decir, viabilidad para simular.
 - Para simular funciones positivas, se puede simular cualquier función f(x) y utilizar $\exp(f(x))$, para hacer que integren uno, se puede ocupar algún programa que aproxime la integral y dividir por tal valor.
