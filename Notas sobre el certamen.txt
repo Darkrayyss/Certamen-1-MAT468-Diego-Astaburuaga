@@ -1,7 +1,5 @@
 Orden preferido a realizar:
 
-- Terminar pregunta 2: Es tiempo, conviene preguntar a quien la tenga.
-
 - Por último, en función del tiempo, considera que vas a hacer, utilizar aceptación al rechazo al final o simular desde 0. Evalua en cual puedes hacer una respuesta que involucre menos cambios y menos análisis, tal vez aceptación-rechazo sea la opción dado que es complementar lo anterior que ya está hecho (creo que eso es mejor).
 
 COSAS QUE QUEDAN POR HACER:
@@ -15,6 +13,6 @@ formas: Paper, metropolis-hasting y paper.
 - Repetir o cambiar gráficos según corresponda.
 
 
-2. Realizar código inciso c).
+2. Mejorar parte c).
 
-- Comparar ambos métodos con los indicadores propuestos.
+- Utilizar otra h y otra g que puedan mostrar diferencias en los métodos.
