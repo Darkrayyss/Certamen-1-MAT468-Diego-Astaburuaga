@@ -1,18 +1,14 @@
-Orden preferido a realizar:
+Cosas que quedan.
 
-- Por último, en función del tiempo, considera que vas a hacer, utilizar aceptación al rechazo al final o simular desde 0. Evalua en cual puedes hacer una respuesta que involucre menos cambios y menos análisis, tal vez aceptación-rechazo sea la opción dado que es complementar lo anterior que ya está hecho (creo que eso es mejor).
+1. 
 
-COSAS QUE QUEDAN POR HACER:
+- Simular para Wishart con grados de libertad arbitrarios (listo).
 
-1. Simular para Wishart con grados de libertad arbitrarios.
+- Fijar $k= np.max(p) - 0.5$ y medir taza de rechazos y tiempos de computo para distintos $p$.
 
-- SOLUCION BREVE?: Simular Wishart desde paper exótico.
-
-formas: Paper, metropolis-hasting y paper.
-
-- Repetir o cambiar gráficos según corresponda.
+- Verificar que la esperanza y la varianza de las simulaciones convergen a lo que deberían.
 
 
-2. Mejorar parte c).
+2. Mejorar parte c) (tal vez).
 
 - Utilizar otra h y otra g que puedan mostrar diferencias en los métodos.
