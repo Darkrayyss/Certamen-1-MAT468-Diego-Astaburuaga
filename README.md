@@ -4,4 +4,4 @@
 <h2 align='center'> Diego Astaburuaga</h2>
 <hr style="height:2px;border:none"/>
 
-Evaluación realizada para el curso MAT468.
+Evaluación realizada para el curso de magister de nombre "Simulación Estocástica" (MAT468).
